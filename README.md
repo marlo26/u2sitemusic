@@ -1,2 +1,3 @@
 # u2sitemusic
-Info de albuns do U2 em diversas linguagens.
+U2 Album Info in Various Programming Languages 
+Info de álbuns do U2 em diversas linguagens de programação. 
