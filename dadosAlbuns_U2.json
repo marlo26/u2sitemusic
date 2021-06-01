@@ -3,8 +3,7 @@
 "albuns": [
 	{
 		"album":"Boy",
-		"data": "1980-10-20",
-		"ano": 1980,
+		"data": [1980,10,20], //[aaaa,mm,dd]
 		"faixas": 11,
 		"musicas":[
 			{ "cd":1, "nro":1, "nome":"I Will Follow", "tempo": 216000 }, 
@@ -23,8 +22,7 @@
 	},
 	{
 		"album":"October",
-		"data":"1981-10-12",
-		"ano":1981,
+		"data":[1981,10,12], //[aaaa,mm,dd]
 		"faixas":11,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Gloria", "tempo":252000 },
@@ -43,8 +41,7 @@
 	},
 	{
 		"album":"War",
-		"data":"1983-02-28",
-		"ano":1983,
+		"data":[1983,2,28], //[aaaa,mm,dd]
 		"faixas":10,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Sunday Bloody Sunday", "tempo":278000 },
@@ -62,8 +59,7 @@
 	},
 	{
 		"album":"Live - Under a Blood Red Sky",
-		"data":"1983-11-07",
-		"ano":1983,
+		"data":[1983,11,7], //[aaaa,mm,dd]
 		"faixas":8,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Gloria", "tempo":272000 },
@@ -79,8 +75,7 @@
 	},
 	{
 		"album":"The Unforgettable Fire",
-		"data":"1984-10-01",
-		"ano":1984,
+		"data":[1984,10,1], //[aaaa,mm,dd]
 		"faixas":10,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"A Sort of Homecoming", "tempo":328000 },
@@ -98,8 +93,7 @@
 	},
 	{
 		"album":"The Joshua Tree",
-		"data":"1987-03-09",
-		"ano":1987,
+		"data":[1987,3,9], //[aaaa,mm,dd]
 		"faixas":11,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Where the Streets Have No Name", "tempo":338000 },
@@ -118,8 +112,7 @@
 	},
 	{
 		"album":"Rattle and Hum",
-		"data":"1988-10-10",
-		"ano":1988,
+		"data":[1988,10,10], //[aaaa,mm,dd]
 		"faixas":17,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Helter Skelter", "tempo":187000 },
@@ -144,8 +137,7 @@
 	},
 	{
 		"album":"Acthung Baby",
-		"data":"1991-11-18",
-		"ano":1991,
+		"data":[1991,11,18], //[aaaa,mm,dd]
 		"faixas":12,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Zoo Station", "tempo":276000 },
@@ -165,8 +157,7 @@
 	},
 	{
 		"album":"Zooropa",
-		"data":"1993-07-05",
-		"ano":1993,
+		"data":[1993,7,5], //[aaaa,mm,dd]
 		"faixas":10,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Zooropa", "tempo":391000 },
@@ -184,8 +175,7 @@
 	},
 	{
 		"album":"POP",
-		"data":"1997-03-03",
-		"ano":1997,
+		"data":[1997,3,3], //[aaaa,mm,dd]
 		"faixas":12,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Discotheque", "tempo":319000 },
@@ -205,8 +195,7 @@
 	},
 	{
 		"album":"Please (CD-Single)",
-		"data":"1997-10-20",
-		"ano":1997,
+		"data":[1997,10,20], //[aaaa,mm,dd]
 		"faixas":5,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Please", "tempo":336000 },
@@ -219,8 +208,7 @@
 	},
 	{
 		"album":"The Best of 1980-1990",
-		"data":"1998-10-01",
-		"ano":1998,
+		"data":[1998,10,1], //[aaaa,mm,dd]
 		"faixas":30,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Pride (In the Name of Love)", "tempo":228000 },
@@ -258,8 +246,7 @@
 	},
 	{
 		"album":"All That You Can't Leave Behind",
-		"data":"2000-10-30",
-		"ano":2000,
+		"data":[2000,10,30], //[aaaa,mm,dd]
 		"faixas":11,
 		"musicas":[ 
 			{ "cd":1, "nro":1, "nome":"Beautiful Day", "tempo":246000 },
@@ -278,8 +265,7 @@
 	},
 	{
 		"album":"The Best of 1990-2000",
-		"data":"2002-11-04",
-		"ano":2002,
+		"data":[2002,11,4], //[aaaa,mm,dd]
 		"faixas":30,
 		"musicas":[
 			{ "cd":1, "nro":1, "nome":"Even Better Than the Real Thing", "tempo":219000 },
@@ -317,8 +303,7 @@
 	},
 	{
 		"album":"How to Dismantle an Atomic Bomb",
-		"data":"2004-11-22",
-		"ano":2004,
+		"data":[2004,11,22], //[aaaa,mm,dd]
 		"faixas":11,
 		"musicas":[
 			{ "cd":1, "nro":1, "nome":"Vertigo", "tempo":194000 },
@@ -337,8 +322,7 @@
 	},
 	{
 		"album":"No Line the Horizon",
-		"data":"2009-02-07",
-		"ano":2009,
+		"data":[2009,2,7], //[aaaa,mm,dd]
 		"faixas":11,
 		"musicas":[
 			{ "cd":1, "nro":1, "nome":"No Line on the Horizon", "tempo":252000 },
@@ -357,8 +341,7 @@
 	},
 	{
 		"album":"Songs of Innocence",
-		"data":"2014-09-10",
-		"ano":2014,
+		"data":[2014,9,10], //[aaaa,mm,dd]
 		"faixas":21,
 		"musicas":[
 			{ "cd":1, "nro":1, "nome":"The Miracle (of Joey Ramone)", "tempo":256000 },
@@ -388,8 +371,7 @@
 	},
 	{
 		"album":"Songs of Experience",
-		"data":"2017-12-01",
-		"ano":2017,
+		"data":[2017,12,1], //[aaaa,mm,dd]
 		"faixas":13,
 		"musicas":[
 			{ "cd":1, "nro":1, "nome":"Love Is All We Have Left", "tempo":161000 },
